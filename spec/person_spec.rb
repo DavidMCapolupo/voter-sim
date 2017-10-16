@@ -1,7 +1,7 @@
 require './person'
 
-
-    it "stores the name of the person" do
-    
+describe Person do
+    it "is created with a name" do
+    it "can report its name" do
     end
 
